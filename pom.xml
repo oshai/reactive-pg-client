@@ -81,6 +81,11 @@
 
   <dependencies>
     <dependency>
+      <groupId>com.github.jasync-sql</groupId>
+      <artifactId>jasync-mysql</artifactId>
+      <version>0.8.33</version>
+    </dependency>
+    <dependency>
       <groupId>io.vertx</groupId>
       <artifactId>vertx-core</artifactId>
     </dependency>
